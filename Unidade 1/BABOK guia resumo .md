@@ -1,4 +1,4 @@
-**# Mapa Mental — BABOK® Guide #**
+**Mapa Mental — BABOK® Guide**
 
 Atividade de fixação de conteúdo sobre o **BABOK® Guide** (Business Analysis Body of Knowledge, IIBA), representando de forma visual as áreas de conhecimento da Análise de Negócios.
 
