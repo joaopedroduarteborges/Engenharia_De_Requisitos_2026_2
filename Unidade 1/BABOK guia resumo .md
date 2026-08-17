@@ -1,52 +1,33 @@
-gemni com base no guia babok faça  im mapa mental estilizado e com esses conteudos quero que faça organizado e bem facil de se entender intuitivo tambem faça um arquivo complementar em markdown para o github explicando mais a fundo nao quero que fice ,uito complexo com dados desnecessarios faça o sufuciente para compreenção Atividade de fixação de conteúdo: Registrar no Repositório do GitHub da Disciplina.
-Sugestão de estrutura para o mapa mental (ser for realizado no MindMeister disponível em: https://www.mindmeister.com/pt) 
-BABOK® — Análise de Negócios
-    Conceitos Fundamentais (BACCM™)
-        Mudança (Change)
-        Necessidade (Need)
-        Solução (Solution)
-        Valor (Value)
-        Stakeholder
-        Contexto (Context)
-    Planejamento e Monitoramento da Análise de Negócios
-        Planejar a abordagem
-        Planejar o engajamento dos stakeholders
-        Planejar a governança
-        Planejar o gerenciamento das informações
-        Melhorar o desempenho da análise
-    Elicitação e Colaboração
-        Preparar a elicitação
-        Conduzir a elicitação
-        Confirmar os resultados
-        Comunicar informações
-        Gerenciar a colaboração
-    Gerenciamento do Ciclo de Vida de Requisitos
-        Rastrear requisitos e designs
-        Manter requisitos e designs
-        Priorizar requisitos e designs
-        Avaliar mudanças
-        Aprovar requisitos e designs
-    Análise de Estratégia
-        Analisar o estado atual
-        Definir o estado futuro
-        Avaliar riscos
-        Definir a estratégia de mudança
-    Análise de Requisitos e Definição de Design
-        Especificar e modelar
-        Verificar requisitos e designs
-        Validar requisitos e designs
-        Definir arquitetura
-        Definir opções de design
-        Recomendar uma solução
-    Avaliação da Solução
-        Medir o desempenho
-        Analisar resultados
-        Avaliar limitações da solução
-        Avaliar limitações da organização
-        Recomendar ações para aumentar o valor
-    Fontes de Pesquisa
-        IIBA — Business Analysis Knowledge Areas
-        IIBA — Business Analysis Key Concepts
-        IIBA — BACCM™
-        IIBA — BABOK® Guide Glossary
-esquece o que eu falei deixe essas fontes mesmo mas separe o mapa mental (em pdf intuitivo e desenhado com formas e objetos dinamicos) e o arquivo do github
+**# Mapa Mental — BABOK® Guide
+
+Atividade de fixação de conteúdo sobre o **BABOK® Guide** (Business Analysis Body of Knowledge, IIBA), representando de forma visual as áreas de conhecimento da Análise de Negócios.
+
+## Conteúdo deste repositório
+
+| Arquivo | Descrição |
+|---|---|
+| `babok_mindmap.pdf` | Mapa mental completo, com o BABOK® no centro e os principais tópicos organizados em ramos coloridos. |
+| `BABOK-guia-resumo.md` | Texto explicando com mais profundidade cada conceito e área de conhecimento do mapa. |
+
+## O que o mapa mental mostra
+
+No centro está o **BABOK® Guide**, e a partir dele se ramificam:
+
+- **Conceitos Fundamentais (BACCM™)** — os seis termos-base: Mudança, Necessidade, Solução, Valor, Stakeholder e Contexto.
+- **Planejamento e Monitoramento da Análise de Negócios**
+- **Elicitação e Colaboração**
+- **Gerenciamento do Ciclo de Vida de Requisitos**
+- **Análise de Estratégia**
+- **Análise de Requisitos e Definição de Design**
+- **Avaliação da Solução**
+- **Fontes de Pesquisa** — referências usadas na construção do mapa.
+
+As sete áreas de conhecimento acima (fora o BACCM e as fontes) formam o núcleo do BABOK® e cobrem todo o trabalho de um analista de negócios: do planejamento inicial até a avaliação da solução entregue.
+
+## Como usar
+
+Abra o `babok_mindmap.pdf` para ter a visão geral rápida, e consulte o `BABOK-guia-resumo.md` quando quiser entender melhor o que cada área ou conceito significa.
+
+## Fonte
+
+Conteúdo baseado no **BABOK® Guide v3**, publicado pelo IIBA (International Institute of Business Analysis).**
